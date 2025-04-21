@@ -2,7 +2,7 @@
     "meta": {
         "manifest_version": 1,
         "locale_version": "1.0",
-        "locale_name": "Français",
+        "locale_name": "Francais",
         "locale_type": "fr_CA",
         "locale_last_updated": "2023-10-05 12:00:00 UTC",
         "locale_author_name": "Mickael Adhoc",
